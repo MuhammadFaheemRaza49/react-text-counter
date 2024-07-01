@@ -1,0 +1,12 @@
+.container h1{
+    height: 70%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+
+.container .row .col{
+    font-size: large;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
